@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 2;
+    background-color: rgb(196, 234, 252);
+    margin: 0;
+    padding: 0;
+    }
+    .header {
+    background-color: #072864;
+    color: #fff;
+    padding: 10 0;
+    text-align: center;
+    }
+    .nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    }
+    .nav__link {
+    color: #333;
+    text-decoration: none;
+    padding: 10;
+    }
+    .nav__link:hover {
+    color: #ff0000;
+    }
+    .content {
+    padding: 20;
+    text-align: center;
+    }
+    
+    .footer {
+    background-color: #04545f;
+    color: #fff;
+    text-align: center;
+    padding: 10 0;
+    }
+   
