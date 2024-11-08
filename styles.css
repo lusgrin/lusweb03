@@ -1,15 +1,17 @@
 body {
     font-family: Arial, sans-serif;
+    background-color: aliceblue;
     margin: 0;
     padding: 0;
     }
     .header {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
-    background-color: #333;
-    color: #fff;
+    background-color: #062f7a;
+    color: #fff; 
     padding: 20px;
+    
     }
     .header__nav {
     display: flex;
@@ -23,10 +25,11 @@ body {
     color: #ff0000;
     }
     .content {
-    padding: 20px;
+    display: flex;
+    padding: 30px;
     }
     .footer {
-    background-color: #333;
+    background-color: #062f7a;
     color: #fff;
     text-align: center;
     padding: 10px;
